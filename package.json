@@ -26,6 +26,8 @@
     "@ionic-native/status-bar": "^5.0.0",
     "@ionic/angular": "^4.1.0",
     "@ionic/pro": "2.0.4",
+    "@manekinekko/angular-web-bluetooth": "^7.0.0",
+    "@types/web-bluetooth": "0.0.4",
     "cordova-plugin-bluetooth-serial": "0.4.7",
     "cordova-plugin-ionic": "^5.0.0",
     "core-js": "^2.5.4",
